@@ -25,7 +25,7 @@ python Hand_Gesture_Recognition.py
 Our project leverages the power of the OpenCV library to recognize and track hand gestures. By identifying key landmarks on the hand, we can track the hand's movement and analyze its configuration for gesture recognition. The following sections provide an overview of the key components and features of our hand gesture recognition system.
 Hand Landmarks Tracking
 
-## Hand Landmarks
+## Hand Landmarks  
 
 ![Hand Landmarks](./images/1.png)
 
