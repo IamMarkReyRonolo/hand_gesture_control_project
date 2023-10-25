@@ -12,7 +12,7 @@ To get started, you need to install the required libraries. You can do this usin
 pip install -r requirements.txt
 ```
 
-### Running the Program
+## Running the Program
 
 Once you have installed the necessary libraries, you can run the hand gesture recognition program by executing the following command:
 
@@ -20,12 +20,12 @@ Once you have installed the necessary libraries, you can run the hand gesture re
 python Hand_Gesture_Recognition.py
 ```
 
-### Project Overview
+## Project Overview
 
 Our project leverages the power of the OpenCV library to recognize and track hand gestures. By identifying key landmarks on the hand, we can track the hand's movement and analyze its configuration for gesture recognition. The following sections provide an overview of the key components and features of our hand gesture recognition system.
 Hand Landmarks Tracking
 
-### Hand Landmarks
+## Hand Landmarks
 
 ![Hand Landmarks](./images/1.png)
 
@@ -39,27 +39,28 @@ Gesture Controls
 By combining hand movement tracking and hand state recognition, we've implemented six different hand gesture controls for users to interact with the Solar System model. These gestures add a layer of interactivity and immersion, making it easy for users to navigate and explore the Solar System Model.
 Gesture Demonstrations
 
-### Go Back and Go Next Gesture
+## Go Back and Go Next Gesture
 ![Picture 4](./images/4.png)
-This gesture allows users to navigate through the Solar System Model, moving either backward or forward.
+#### This gesture allows users to navigate through the Solar System Model, moving either backward or forward.
 
-### Drag Gesture
+## Drag Gesture
 ![Picture 5](./images/5.png)
-The drag gesture enables users to control the exploration of their selected asset within the Solar System Model.
+#### The drag gesture enables users to control the exploration of their selected asset within the Solar System Model.
 
-### Stop Gesture
+## Stop Gesture
 ![Picture 5](./images/6.png)
-This gesture brings a chosen asset in the Solar System Model to a halt, stopping it from spinning.
+#### This gesture brings a chosen asset in the Solar System Model to a halt, stopping it from spinning.
 
 
-### Scale Gesture
+## Scale Gesture
 ![Picture 5](./images/7.png)
-With the scale gesture, users can dynamically resize their selected asset within the Solar System Model.
+#### With the scale gesture, users can dynamically resize their selected asset within the Solar System Model.
 
 
-### Swipe Gesture
+## Swipe Gesture
 ![Picture 6](./images/8.png)
-The swipe gesture lets users shift their chosen asset in any direction within the Solar System Model as long as their hand is detected.
-Conclusion
+#### The swipe gesture lets users shift their chosen asset in any direction within the Solar System Model as long as their hand is detected.
+
+## Conclusion
 
 Our hand gesture recognition system enhances the interactivity and immersion of the Solar System Model, making it an engaging and user-friendly experience. Feel free to explore and adapt this code to your own projects, and enjoy the wonders of interactive solar system exploration.
