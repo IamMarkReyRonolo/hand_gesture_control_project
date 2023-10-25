@@ -1,7 +1,5 @@
 # Hand Gesture Recognition for Interactive Solar System Model
 
-![Demo GIF](demo.gif)
-
 Welcome to the hand gesture recognition code repository for our Thesis Project, titled "Interactive Real-time Solar System Model Using Hand Gesture Recognition and Pseudoholography." This project showcases the integration of hand gesture recognition to control and interact with a real-time solar system model. With this code, you can explore the solar system model using your hand gestures.
 
 ## Installation
